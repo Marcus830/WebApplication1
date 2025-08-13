@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1> Submit Complaint Form</h1>
+    <form id="complaintForm">
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="responseMessage"></div>
+    <div id="complaintList">
+        <h2>Complaints:</h2>
+        <table id="complaintTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Description</th>
+                    <th>Created At</th>
+                </tr>
+            </thead>
+            <tbody id="complaintTableBody">
+                <!-- Complaints will be populated here -->
+            </tbody>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
