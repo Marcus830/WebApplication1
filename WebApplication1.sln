@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1.csproj", "{4DE510A3-07CF-4ADE-9300-4EE29D03AD6C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{33A557FD-1869-4EDE-8200-A93F655C6659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complaint.Tests", "tests\Complaint.Tests\Complaint.Tests.csproj", "{90973E33-70FB-4285-BA81-0FBCC202068E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{4DE510A3-07CF-4ADE-9300-4EE29D03AD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE510A3-07CF-4ADE-9300-4EE29D03AD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE510A3-07CF-4ADE-9300-4EE29D03AD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90973E33-70FB-4285-BA81-0FBCC202068E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90973E33-70FB-4285-BA81-0FBCC202068E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90973E33-70FB-4285-BA81-0FBCC202068E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90973E33-70FB-4285-BA81-0FBCC202068E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90973E33-70FB-4285-BA81-0FBCC202068E} = {33A557FD-1869-4EDE-8200-A93F655C6659}
 	EndGlobalSection
 EndGlobal
