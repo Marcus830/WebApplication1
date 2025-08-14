@@ -1,0 +1,46 @@
+#Trigger on every push
+#Build your Docker images
+#Run them in a local GitHub Actions environment
+#
+#
+name: CI Pipeline
+#Set your workflow to run on push events to the main
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: password
+          POSTGRES_DB: complaintdb
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd="pg_isready -U postgres" 
+          --health-interval=10s 
+          --health-timeout=5s 
+          --health-retries=5
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Build Backend
+        run: dotnet build ./Backend/Backend.csproj --configuration Release
+
+      - name: Run Tests
+        run: dotnet test ./Backend/Backend.csproj --no-build --verbosity normal
