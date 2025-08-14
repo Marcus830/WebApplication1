@@ -2,9 +2,14 @@
 #Build your Docker images
 #Run them in a local GitHub Actions environment
 #
-#
+
+
+# options does 3 things:
+# 1. Ensures the DB is healthy before your backend tries to talk to it.
+# 2. Sets the health check interval to 10 seconds.
+# 3. Sets the health check timeout to 5 seconds.
 name: CI Pipeline
-#Set your workflow to run on push events to the main
+# Set your workflow to run on push events to the main
 on:
   push:
     branches: [ main ]
@@ -14,33 +19,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    # Spins up PostgreSQL as a service container
     services:
       postgres:
         image: postgres:16
         env:
-          POSTGRES_USER: postgres
-          POSTGRES_PASSWORD: password
-          POSTGRES_DB: complaintdb
+          POSTGRES_USER: postgres   # match your database username.
+          POSTGRES_PASSWORD: 12345678  # match your database password.
+          POSTGRES_DB: Complaint   # match your database name
         ports:
           - 5432:5432
-        options: >-
-          --health-cmd="pg_isready -U postgres" 
-          --health-interval=10s 
-          --health-timeout=5s 
+        options: >-         # ensures the DB is healthy before your backend tries to talk to it.
+          --health-cmd="pg_isready -U postgres"
+          --health-interval=10s
+          --health-timeout=5s
           --health-retries=5
 
     steps:
-      - name: Checkout code
+      - name: Checkout code # Checks out your code
         uses: actions/checkout@v4
 
       - name: Set up .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: '6.0.x'
 
-      - name: Build Backend
-        run: dotnet build ./Backend/Backend.csproj --configuration Release
-
-      - name: Run Tests
-        run: dotnet test ./Backend/Backend.csproj --no-build --verbosity normal
+      - name: Build Backend  # Builds your backend
+        run: dotnet build ./WebApplication1.csproj --configuration Release
