@@ -7,7 +7,7 @@ namespace WebApplication1.Tests
         [Fact]
         public void Test1()
         {
-
+            Assert.True(true);
         }
     }
 }
