@@ -46,3 +46,6 @@ jobs:
 
       - name: Build Backend  # Builds your backend
         run: dotnet build ./WebApplication1.csproj --configuration Release
+        
+      - name: Run Tests
+        run: dotnet test ./tests/Complaint.Tests/Complaint.Tests.csproj --no-build --verbosity normal
