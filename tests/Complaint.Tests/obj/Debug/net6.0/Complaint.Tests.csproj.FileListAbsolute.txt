@@ -1,6 +1,6 @@
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\.msCoverageSourceRootsMapping_Complaint.Tests
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\testhost.dll
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.abstractions.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.deps.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\appsettings.Development.json
@@ -9,7 +9,9 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tes
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.exe
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\testhost.exe
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.deps.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.runtimeconfig.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.dll
@@ -22,6 +24,7 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tes
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
@@ -30,6 +33,7 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tes
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Npgsql.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.abstractions.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.assert.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.core.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
@@ -110,15 +114,3 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tes
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\obj\Debug\net6.0\ref\Complaint.Tests.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\obj\Debug\net6.0\Complaint.Tests.pdb
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\obj\Debug\net6.0\Complaint.Tests.genruntimeconfig.cache
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\.msCoverageSourceRootsMapping_Complaint.Tests
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.deps.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.runtimeconfig.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\Complaint.Tests.csproj.nuget.dgspec.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\project.assets.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.deps.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\tests\Complaint.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll

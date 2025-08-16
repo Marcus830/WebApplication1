@@ -35,11 +35,3 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\We
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.deps.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.runtimeconfig.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\Complaint.Tests.csproj.nuget.dgspec.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\project.assets.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.deps.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
-C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
