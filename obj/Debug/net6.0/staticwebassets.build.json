@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2p7rFeyU4PqGNim+YhbV3hK7TVG3CHC6c7Wgypo6H9U=",
+  "Hash": "wuaN9u3rTyqgHNVKhLOJ07xQBB/BywzOzmQomF9Q/3E=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\app.js",
+      "Identity": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\app.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "app.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\app.js"
     },
     {
-      "Identity": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\index.html",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\styles.css",
+      "Identity": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\styles.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "styles.css",
       "AssetKind": "All",

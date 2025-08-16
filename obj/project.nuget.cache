@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RLftsQhzbCxjGqWDEBoUp0Dbm5xRyw5pyF2UYOQ5RVntR+oA2+xs38Z2ORpIaysWKT/cuJSddk4AS1Bo1D5xDA==",
+  "dgSpecHash": "d3tS8Y4K00qbAZPmvGTkNSWj8IPRZze6h5hrXeDzb+vCI9m1OdiHBgOfp9+ppY/8jTI44AHy50w7e+fvXUKXoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\marcu\\Desktop\\My Personal Portfolio\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,14 @@
     "C:\\Users\\marcu\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.8\\npgsql.entityframeworkcore.postgresql.6.0.8.nupkg.sha512",
     "C:\\Users\\marcu\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\marcu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\marcu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\marcu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512"
   ],
   "logs": []
 }

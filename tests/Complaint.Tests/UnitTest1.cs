@@ -1,12 +1,13 @@
 using Xunit;
 
-namespace Complaint.Tests;
-
-public class UnitTest1
+namespace WebApplication1.Tests
 {
-    [Fact]
-    public void Test1()
+    public class UnitTest1
     {
+        [Fact]
+        public void Test1()
+        {
 
+        }
     }
 }

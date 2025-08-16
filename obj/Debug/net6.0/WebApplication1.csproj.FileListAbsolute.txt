@@ -1,4 +1,6 @@
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\obj\Complaint.Tests.csproj.nuget.dgspec.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\obj\project.assets.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
@@ -15,6 +17,10 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\Mi
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\Npgsql.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\xunit.core.dll
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\xunit.execution.dotnet.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
@@ -29,3 +35,11 @@ C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\We
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.deps.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\Complaint.Tests.runtimeconfig.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\Complaint.Tests.csproj.nuget.dgspec.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\tests\Complaint.Tests\obj\project.assets.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\marcu\Desktop\My Personal Portfolio\WebApplication1\bin\Debug\net6.0\tests\Complaint.Tests\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
