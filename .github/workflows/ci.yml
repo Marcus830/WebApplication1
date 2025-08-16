@@ -48,4 +48,4 @@ jobs:
         run: dotnet build ./WebApplication1.csproj --configuration Release
         
       - name: Run Tests
-        run: dotnet test ./tests/Complaint.Tests/Complaint.Tests.csproj --no-build --verbosity normal
+        run: dotnet test ./WebApplication1.csproj --no-build --verbosity normal
