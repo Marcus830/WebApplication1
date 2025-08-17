@@ -48,6 +48,8 @@ app.UseCors("AllowAll");
 
 app.UseStaticFiles();
 
+// Health check endpoint
+app.MapGet("/health", () => "OK");
 
 // ✅ Map API routes
 app.MapGet("/complaint", async (AppDbContext db) =>

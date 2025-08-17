@@ -44,8 +44,27 @@ jobs:
         with:
           dotnet-version: '6.0.x'
 
-      - name: Build Backend  # Builds your backend
-        run: dotnet build ./WebApplication1.csproj --configuration Release
-        
+      - name: Build containers with docker-compose  #builds your images just like locally
+        run: docker compose build
+
+      - name: Run containers in background #starts frontend + backend + postgres.
+        run: docker compose up -d
+
+      - name: Wait for PostgreSQL to be ready  
+        run: |
+          for i in {1..30}; do
+            if curl -s http://localhost:5000/health; then
+              echo "Backend is up!"
+              exit 0
+            fi
+            echo "Waiting for backend..."
+            sleep 5
+          done
+          echo "Backend did not start in time" && exit 1
+
+      - name: Verify frontend container     #makes sure frontend responds on port 3000
+        run: curl -s http://localhost:3000 || exit 1
+
       - name: Run Tests
         run: dotnet test ./WebApplication1.csproj --no-build --verbosity normal
+
