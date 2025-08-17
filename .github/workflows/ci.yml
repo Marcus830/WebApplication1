@@ -3,7 +3,6 @@
 #Run them in a local GitHub Actions environment
 #
 
-
 # options does 3 things:
 # 1. Ensures the DB is healthy before your backend tries to talk to it.
 # 2. Sets the health check interval to 10 seconds.
