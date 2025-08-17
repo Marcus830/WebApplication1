@@ -61,8 +61,8 @@ jobs:
           done
           echo "Backend did not start in time" && exit 1
 
-      - name: Verify frontend container     #makes sure frontend responds on port 3000
-        run: curl -s http://localhost:3000 || exit 1
+      - name: Verify frontend container     #makes sure frontend responds on port 5000
+        run: curl -s http://localhost:5000 || exit 1
 
       - name: Run Tests
         run: dotnet test ./WebApplication1.csproj --no-build --verbosity normal
